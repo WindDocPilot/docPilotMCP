@@ -14,7 +14,7 @@ A local [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) service
 ## Prerequisites
 
 - **Node.js**: Version 16 or higher.
-- **WindData API Key**: You need a valid `X-SECRET-KEY` from [WindData Management Console](https://dp.winddata.com.cn/management).
+- **WindData API Key**: You need a valid `X-SECRET-KEY` from [瞬析](https://dp.winddata.com.cn/management).
 
 ## Installation
 

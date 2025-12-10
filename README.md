@@ -14,7 +14,7 @@
 ## 先决条件
 
 - **Node.js**：版本 16 或更高。
-- **WindData API 密钥**：您需要从 [WindData 管理控制台](https://dp.winddata.com.cn/management) 获取有效的 `X-SECRET-KEY`。
+- **WindData API 密钥**：您需要从 [瞬析](https://dp.winddata.com.cn/management) 获取有效的 `X-SECRET-KEY`。
 
 ## 安装
 
